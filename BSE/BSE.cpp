@@ -184,7 +184,7 @@ void findMinInSelectedArea(float** array, int size) {
 
 
 
-
+        //werwerwerwer
 
 
 
