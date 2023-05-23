@@ -16,7 +16,7 @@ void findMinInSelectedArea(float**, int);
 
 
 
-
+//sdfsdfsdf
 
 
 int main() {
